@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dark Souls</title>
+<style>
+  .par-impar {
+    font-family: Arial, sans-serif;
+    font-size: 16pt;
+    color: red;
+  }
+  
+  .par {
+    font-family: Verdana, sans-serif;
+    font-size: 20pt;
+    color: blue;
+  }
+</style>
+</head>
+<body>
+  <div id="content">
+    <p class="par-impar">Dark Souls é uma série de jogos de RPG de ação desenvolvida pela FromSoftware. Conhecida por sua dificuldade desafiadora e atmosfera sombria, a série ganhou uma enorme base de fãs desde o lançamento do primeiro jogo em 2011.</p>
+    <p class="par">Os jogos da série Dark Souls são ambientados em mundos interconectados, onde os jogadores enfrentam inúmeros inimigos, chefes poderosos e quebra-cabeças intricados. A jogabilidade exige habilidade, paciência e estratégia.</p>
+    <p class="par-impar">Com uma narrativa misteriosa e muitas vezes enigmática, os jogadores exploram paisagens desoladas e descobrem segredos ocultos enquanto lutam pela sobrevivência. A série Dark Souls desafia os jogadores a superar adversidades aparentemente insuperáveis.</p>
+    <p class="par">A estética única e a trilha sonora evocativa contribuem para a atmosfera imersiva dos jogos Dark Souls. Cada título da série oferece uma experiência única, mas todos compartilham o mesmo senso de desafio e conquista.</p>
+  </div>
+</body>
+</html>
